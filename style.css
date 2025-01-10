@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: blue;
+}
+
+header img{
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+main{
+    background-color: rgb(16, 209, 209);
+    display: flex;
+}
+
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(16, 209, 209);
+    border: 1px solid rgb(13, 5, 55);
+    justify-content: space-around, space-between;
+    margin-left: 100px;
+    font-size: 30px;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+main img{
+    width:200px;
+    height: 200px;
+}
+
+main p{
+    float: right;
+    position: absolute;
+}
+
+
+.f{
+    width:790px;
+    height: 110px;
+    opacity: 0.5;
+    background: 
+    url("https://dochub.com/m/shared-document/roman-perevoznik/DL7JlEGV13QlaPxRrWe0oa/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA3-png?dt=Yj7UzdREyXNpPGtpmmVs") no-repeat 90% 70%;
+}
+
+footer {
+   background-color: rgb(93, 0, 255);
+   border: 5px solid rgb(93, 0, 255);
+}
+
+footer a {
+    color: aliceblue;
+}
+
+footer p {
+    background-color: aqua;
+}
+
+
+
